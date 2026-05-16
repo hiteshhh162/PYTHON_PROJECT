@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "id": "B-21L8Z",
+            "title": "geeta",
+            "author": "krishna",
+            "total_copies": "12",
+            "Available_copies": "12",
+            "added_on": "16-05-2026"
+        },
+        {
+            "id": "B-PMY9M",
+            "title": "hitesh",
+            "author": "jada",
+            "total_copies": "12",
+            "Available_copies": "12",
+            "added_on": "16-05-2026"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-7MR6G",
+            "name": "hitesh",
+            "email": "jadav2592",
+            "borrowed": []
+        }
+    ]
+}
